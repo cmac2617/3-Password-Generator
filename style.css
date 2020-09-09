@@ -1,0 +1,33 @@
+main {
+    border: 3px solid black;
+    margin: auto;
+    width: 95%;
+    text-align: center;
+}
+h1 {
+    margin: auto;
+}
+#pwbox {
+    margin: auto;
+    margin-top: 5px;
+    width: 95%;
+    border: 3px solid black;
+    align-content: center;
+}
+h2 {
+    text-align: center;
+    margin: auto;
+}
+#pwrevealed {
+    width: 400px;
+    height: 20px;
+    background-color: cornflowerblue;
+    border: 3px solid black;
+    margin: auto;
+    margin-bottom: 5px;
+}
+#button {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
