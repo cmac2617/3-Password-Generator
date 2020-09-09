@@ -13,6 +13,7 @@ h1 {
     width: 95%;
     border: 3px solid black;
     align-content: center;
+    text-align: center;
 }
 h2 {
     text-align: center;
@@ -20,11 +21,12 @@ h2 {
 }
 #pwrevealed {
     width: 400px;
-    height: 20px;
+    height: 50px;
     background-color: cornflowerblue;
     border: 3px solid black;
     margin: auto;
     margin-bottom: 5px;
+    text-align: center;
 }
 #button {
     text-align: center;
